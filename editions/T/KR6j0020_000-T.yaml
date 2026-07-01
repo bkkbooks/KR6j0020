@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0020/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿闍梨大曼荼攞灌頂儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0862.xml
+    old_id: T18n0862
+hash: sha256:dd4eec2dab553ef62ee2d63ecb9586c61f6bc88c8c15c8dfe03d054f516c504f
