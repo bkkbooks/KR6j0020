@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0020_000.yaml, hash: 'sha256:dd4eec2dab553ef62ee2d63ecb9586c61f6bc88c8c15c8dfe03d054f516c504f'}
-  - {seq: 1, filename: KR6j0020_001.yaml, hash: 'sha256:bec825c7f3bb26e3b10c7acd7596ed7fa4241a07d66d8b7876bb8e75d3c0053c'}
+  - {seq: 1, filename: KR6j0020_001.yaml, hash: 'sha256:fd3275b367463983762123c7798e6ddf64924c327a0fd37c6a5440e345c4e0ed'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0020_001.markers.yaml, hash: 'sha256:e60e1996ce166805ea71567275c041c2f02abeca0796726cd60d004763ba7ce9'}
+  - {seq: 0, role: markers, filename: assets/KR6j0020_000.markers.yaml, hash: 'sha256:27570cfa0e5f97418567d40fd0f2ab41d0cee45b27f3cd44e67a1885e0a088da'}
+  - {seq: 1, role: markers, filename: assets/KR6j0020_001.markers.yaml, hash: 'sha256:2aa48b1967a318e278d75c79bc8a709f03579b668ee9343172b10f9dd4b57aca'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 阿闍梨大曼荼攞灌頂儀軌
   type: juan
   level: 1
-hash: sha256:3dcb3dcf07fa60a2d5ecad1103056e4cfbdab3253d36a11bf9dcabdb1e5b5e8d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:811a9c276a1b3dbcb366ecfb85a28dc69d195a04ab086bcddcca74b4ebe06541
