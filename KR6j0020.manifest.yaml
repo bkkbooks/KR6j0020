@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0020/v1
 canonical_location: https://kanripo.org/bkk/KR6j0020/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 阿闍梨大曼荼攞灌頂儀軌
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0020_000.yaml, hash: 'sha256:dd4eec2dab553ef62ee2d63ecb9586c61f6bc88c8c15c8dfe03d054f516c504f'}
-  - {seq: 1, filename: KR6j0020_001.yaml, hash: 'sha256:fd3275b367463983762123c7798e6ddf64924c327a0fd37c6a5440e345c4e0ed'}
+  - {seq: 1, filename: KR6j0020_001.yaml, hash: 'sha256:57b8d1fc820cb33e29b814d16bb5aa3bc784a7cfae21321c2b52aa7b26e9a936'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0020_000.markers.yaml, hash: 'sha256:27570cfa0e5f97418567d40fd0f2ab41d0cee45b27f3cd44e67a1885e0a088da'}
-  - {seq: 1, role: markers, filename: assets/KR6j0020_001.markers.yaml, hash: 'sha256:2aa48b1967a318e278d75c79bc8a709f03579b668ee9343172b10f9dd4b57aca'}
+  - {seq: 1, role: markers, filename: assets/KR6j0020_001.markers.yaml, hash: 'sha256:115157ae580e116a59d5f17623b54f3971e20aca87012a6c3dc5a47c41de6a88'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 阿闍梨大曼荼攞灌頂儀軌
   type: juan
   level: 1
-hash: sha256:811a9c276a1b3dbcb366ecfb85a28dc69d195a04ab086bcddcca74b4ebe06541
+hash: sha256:092aaccd0528172ddb054d795e47f155bf908b3f641d5b3ce0ac4cf1491e4b78
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
